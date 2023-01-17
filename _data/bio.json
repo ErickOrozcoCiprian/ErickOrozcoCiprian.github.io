@@ -10,9 +10,8 @@
     "location": { "address": "", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "ErickOrozcoCiprian", "url": "http://github.com/ErickOrozcoCiprian" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "Erick Orozco-Ciprian", "url": "www.linkedin.com/in/erick-orozco-ciprian-9a7aa5227
+" }
     ]
   },
   "interests": [
@@ -29,7 +28,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Linux", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
   "education": [
@@ -71,15 +70,16 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "NHSEMP",
+      "website": "https://manoa.hawaii.edu/nhss/services/student-scholar-spaces/native-hawaiian-student-support-programs/#:~:text=Native%20Hawaiian%20Science%20%26%20Engineering%20Mentorship,%2C%20and%20Mathematics%20(STEM).",
+      "position": "Kumu Staff",
+      "startDate": "2021-01-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Help lead/build curriculum for various NHSEMP projects many of which attribute to the learning and betterment of Native Hawaiian youth",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Computer Science Kumu/Mentor for the NHS Summer Series Program",
+        "Kumu for CSP4U which is an accelerated learnign enviroment geared toward those with interest in computer science.",
+        "Kumu for Stem Day events where we help youth and their famalies build mini engineering kits"
       ]
     },
     {
