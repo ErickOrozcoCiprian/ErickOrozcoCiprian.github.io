@@ -2,7 +2,7 @@
   "basics": {
     "name": "Erick Orozco-Ciprian",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://github.com/ErickOrozcoCiprian.png",
     "email": "ciprian@hawaii.edu",
     "phone": "808-452-6373",
     "website": "https://ErickOrozcoCiprian.github.io",
@@ -10,13 +10,11 @@
     "location": { "address": "", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "ErickOrozcoCiprian", "url": "http://github.com/ErickOrozcoCiprian" },
-      { "network": "linkedin", "username": "Erick Orozco-Ciprian", "url": "www.linkedin.com/in/erick-orozco-ciprian-9a7aa5227
-" }
+      { "network": "linkedin", "username": "Erick Orozco-Ciprian", "url": "www.linkedin.com/in/erick-orozco-ciprian-9a7aa5227" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
+    { "name": "Video Games" },
     { "name": "Quantum Computing" },
     { "name": "Reading" },
     { "name": "3D Graphics" }
@@ -28,7 +26,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Linux", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Linux", "Git/GitHub", "g++"]
     }
   ],
   "education": [
@@ -85,29 +83,29 @@
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "",
+        "",
+        ""
       ]
     }
   ],
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2021-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2021-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Students must have a 3.5 GPA, 1200 SAT or 23 ACT upon the time of application to UH Manoa"
     }
   ],
   "references": [
