@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Reflect on Javascript 1"
+title: "Learning Javascript from a Java perspective"
 # All dates must be YYYY-MM-DD format!
-date: 2023-01-28
+date: 2023-01-20
 published: true
 labels:
   - Javascript
