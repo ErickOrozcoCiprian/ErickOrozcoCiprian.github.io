@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: <img src="img/stemday/download.png"  width="300" height="200">
+image: img/stemday/download.png
 title: "Stem Day"
-date: 2015
+date: 2020-2023
 published: true
 labels:
   - Kit Building
