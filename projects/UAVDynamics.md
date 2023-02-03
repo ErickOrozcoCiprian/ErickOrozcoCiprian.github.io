@@ -37,5 +37,5 @@ The actual physical representation of my work can be seen in this data grapgh be
 Essentially what this shows is the invariants (Angles of the Aircraft) and the position of the aircraft (XYZ Positions) and how they change when put through a set of equations for a manuever I programmed. This helps show the relationship between a UAV Motion manuever and the ISM concepts that attribute the manuever. To learn more i've linked my actual final presentation of the topic below which shows my progress and milestones throughout the projevt as well as the slides themselves.
 <hr>
 
-Video Presentation Source: [My video presentation on the topic]([[https://docs.google.com/presentation/d/176Xfwvp5YT2fGfkw0EdTtgRjIlGfDvMqj0VKABMR8zo/edit?usp=sharing](https://drive.google.com/file/d/1S41EPoOZsicE_b9vUluUu97NuVJ-rRqR/view?usp=sharing))]
-Slide Source: [My google slides presentation on the topic]([https://docs.google.com/presentation/d/176Xfwvp5YT2fGfkw0EdTtgRjIlGfDvMqj0VKABMR8zo/edit?usp=sharing)]
+Video Presentation Source: [My video presentation on the topic]([https://docs.google.com/presentation/d/176Xfwvp5YT2fGfkw0EdTtgRjIlGfDvMqj0VKABMR8zo/edit?usp=sharing])
+Slide Source: [My google slides presentation on the topic]([https://docs.google.com/presentation/d/176Xfwvp5YT2fGfkw0EdTtgRjIlGfDvMqj0VKABMR8zo/edit?usp=sharing])
