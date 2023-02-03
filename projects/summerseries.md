@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/summerseries/IMG_1123.jpg
+image: img/IMG_1123.jpg
 title: "Summer Series Kumu"
 date: 2022
 published: true
@@ -20,6 +20,7 @@ The full curriculum varied based on budgeting but some memorable events and oppo
 
 Here is a quick video and a link to a news article about the program. 
 
-<video src=”../img/summerseries/IMG_8797.MOV”controls=”controls” style=”max-width: 730px;”> </video> `
+Students showing off their (keyboards!)[https://drive.google.com/file/d/14JylKTafSw6j4zmPI9gelAuPehJnMUUQ/view?usp=sharing]
+
 
 Read about it with this (Summer Series News Article!)[https://www.hawaii.edu/news/2022/06/28/native-hawaiian-high-schoolers-immersed-in-science/]
