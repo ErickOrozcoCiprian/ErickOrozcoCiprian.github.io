@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/stemday/download.png
+image: img/stemday/kiwico.png
 title: "Stem Day"
 date: 2020-2023
 published: true
