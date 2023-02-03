@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/1ISMIntro.png
 title: "ISM in Controlled UAV Motion"
 date: 2020
 published: true
@@ -10,8 +10,6 @@ labels:
   - UAV Dynamics
 summary: "A project I worked on over the summer after my High-School Graduation"
 ---
-
-<img class="img-fluid" src="../img/1ISMIntro.png">
 
 Over the summer of 2020 I worked with the Guidance, Navigation, & Control System Lab at UH Manoa to study data on the utilization of I.S.M in UAV Dynamics. In order to detemine the fficacy of ISM in UAV Motion I had to go through the following milestones
 
