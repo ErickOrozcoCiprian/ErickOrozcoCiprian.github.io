@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/IMG_1123.jpg
+image: img/IMG_1123.JPG
 title: "Summer Series Kumu"
 date: 2022
 published: true
@@ -11,8 +11,8 @@ labels:
   - Engineering
 summary: "Worked over the summer full time as a Computer Science & Engineer Kumu/Mentor for a group of young Hawaiian students."
 ---
-<img class="img-fluid" src="../img/summerseries/IMG_1118.jpg">
-<img class="img-fluid" src="../img/summerseries/IMG_1116.jpg">
+<img class="img-fluid" src="../img/summerseries/IMG_1118.JPG">
+<img class="img-fluid" src="../img/summerseries/IMG_1116.JPG">
 
 Summer Series got young Hawaiians and flew them over to the campus of UH Manoa to put them through a 2-week excursion where they sharpened their skills in the field they selected. Alongside the Engineering & Comp Sci fields, there were also musical, and health fields. Our class which had around 10 students per session went through a lesson plan that my partner Briana Lee and I created including the construction of their keyboards. The summer series is held over two sessions with the first being around middle-school students and the second being around high-school students. The first session was lucky enough to be able to even build their computers.
 
