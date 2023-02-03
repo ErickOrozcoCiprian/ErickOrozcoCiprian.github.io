@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/stemday/download.png
-title: "Vacay"
+image: <img src="img/stemday/download.png"  width="300" height="200">
+title: "Stem Day"
 date: 2015
 published: true
 labels:
