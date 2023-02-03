@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/summerseries/IMG_1123.jpg
 title: "Summer Series Kumu"
 date: 2022
 published: true
@@ -13,9 +13,8 @@ summary: "Worked over the summer full time as a Computer Science & Engineer Kumu
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/summerseries/IMG_1123" class="img-thumbnail" >
-  <img width="200px" src="../img/summerseries/IMG_1118" class="img-thumbnail" >
-  <img width="200px" src="../img/summerseries/IMG_1116" class="img-thumbnail" >
+  <img width="200px" src="../img/summerseries/IMG_1118.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/summerseries/IMG_1116.jpg" class="img-thumbnail" >
 </div>
 
 Summer Series got young Hawaiians and flew them over to the campus of UH Manoa in order to put them through a 2-week excursion where they sharpened thier skills in the field they selected. Alongside the Engineering & Comp Sci fields there were also musical, and health fields. Our class which had around 10 students per session went through a lesson plan that my partner Briana Lee and I created including the construction of their own keyboards. The summer series is held over two sessions with the first being around middle-school students and the second being around highschool students. The first session was lucky enough to be able to even build their own computers.
@@ -25,7 +24,7 @@ The full curriculm varied based on budgetting but some memorable events and oppu
 
 
 Here is a quick video and a link to a news article about the program.
-<video src="../img/summerseries/IMG_8797"controls="controls" style="max-width: 730px;">
+<video src="../img/summerseries/IMG_8797.MOV"controls="controls" style="max-width: 730px;">
 </video>
 ```
 
