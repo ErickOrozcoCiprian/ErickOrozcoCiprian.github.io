@@ -1,0 +1,91 @@
+{
+  "basics": {
+    "name": "Erick Orozco-Ciprian",
+    "label": "Student",
+    "picture": "https://github.com/ErickOrozcoCiprian.png",
+    "email": "ciprian@hawaii.edu",
+    "phone": "808-452-6373",
+    "website": "https://ErickOrozcoCiprian.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "91-1002 Hamana St.", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "ErickOrozcoCiprian", "url": "http://github.com/ErickOrozcoCiprian" },
+      { "network": "linkedin", "username": "Erick Orozco-Ciprian", "url": "http://linkedin.com/in/erick-orozco-ciprian-9a7aa5227" }
+    ]
+  },
+  "interests": [
+    { "name": "Ai" },
+    { "name": "Video Games" },
+    { "name": "Reading" },
+    { "name": "Data Science" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML & CSS", "Python" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "Linux", "Git/GitHub", "g++"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa Groupings Project",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2022-01-17",
+      "endDate": "Present",
+      "summary": "Contribute to the updating and maintaining of the UH Groupings website and project.",
+      "highlights": [
+        "Maintain, update, and oversee collective UH Groupings",
+        "Organize and distribute security permissions and files across UH with ease"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "NHSEMP",
+      "website": "bit.ly/3RtYRjv",
+      "position": "Kumu Staff",
+      "startDate": "2021-01-01",
+      "endDate": "Present",
+      "summary": "Help lead/build curriculum for various NHSEMP projects many of which attribute to the learning and betterment of Native Hawaiian youth",
+      "highlights": [
+        "Computer Science Kumu/Mentor for the NHS Summer Series Program",
+        "Kumu for CSP4U which is an accelerated learnign enviroment geared toward those with interest in computer science.",
+        "Kumu for Stem Day events where we help youth and their famalies build mini engineering kits"
+      ]
+    }
+    ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2021-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2021-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Students must have a 3.5 GPA, 1200 SAT or 23 ACT upon the time of application to UH Manoa"
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
